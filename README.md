@@ -1,2 +1,2 @@
-# Talks_and_Demos
+# Talks and Demos
 A repository of talks and demonstrations
